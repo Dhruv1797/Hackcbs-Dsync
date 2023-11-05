@@ -1,4 +1,4 @@
-MOVEASY POS Device App
+# MOVEASY POS Device App
 
 The MOVEASY Point-of-Sale (POS) Device App is an essential component of the MOVEASY project, designed to streamline the sale of bus tickets, accept payments, and facilitate real-time communication with passengers. This README provides an overview of the POS Device App, its features, and how to set it up.
 Table of Contents
@@ -12,12 +12,12 @@ Table of Contents
     License
     Contact
 
-Introduction
+## Introduction
 
 The MOVEASY POS Device App is part of a larger ecosystem aimed at improving the public transportation experience. It plays a crucial role in ticketing and passenger communication. This application is typically installed on POS hardware and serves as the bridge between the transit system and passengers.
 Features
 
-The MOVEASY POS Device App offers the following features:
+## The MOVEASY POS Device App offers the following features:
 
     Ticket Sales: Facilitate the sale of bus tickets, allowing passengers to pay for their journeys securely.
 
@@ -27,9 +27,9 @@ The MOVEASY POS Device App offers the following features:
 
     Geolocation Tracking: Collect and share the current geolocation and route information with passengers, enabling them to track their bus's location in real time.
 
-Getting Started
+## Getting Started
 
-To set up and use the MOVEASY POS Device App, follow these steps:
+### To set up and use the MOVEASY POS Device App, follow these steps:
 
     Clone the Repository: Clone the MOVEASY repository to your local machine.
 
@@ -41,15 +41,15 @@ To set up and use the MOVEASY POS Device App, follow these steps:
 
     Connect to the MOVEASY Ecosystem: Establish a connection between the POS Device App and the MOVEASY Consumer's APK for seamless communication and real-time updates with passengers.
 
-Configuration
+## Configuration
 
-The configuration of the MOVEASY POS Device App is a critical step in its setup. Refer to the documentation for detailed information on how to configure the app, including:
+### The configuration of the MOVEASY POS Device App is a critical step in its setup. Refer to the documentation for detailed information on how to configure the app, including:
 
     API key setup for payment processing.
     Geolocation and route tracking configuration.
     Integration with the MOVEASY ecosystem and the Consumer's APK.
 
-Usage
+## Usage
 
 The MOVEASY POS Device App is designed for use by public transportation operators, bus drivers, or sales representatives. It enables them to efficiently manage ticket sales, accept payments, and communicate with passengers.
 
@@ -64,11 +64,5 @@ We welcome contributions from the open-source community to enhance the MOVEASY P
 
     Submit a pull request detailing your changes and improvements.
 
-License
-
-The MOVEASY POS Device App is released under the MIT License.
-Contact
-
-If you have any questions, feedback, or need assistance, feel free to contact us at contact@moveasy.com.
 
 The MOVEASY POS Device App is a vital part of the MOVEASY project, improving the efficiency of public transportation systems and ensuring a seamless experience for passengers. Join us in our mission to transform the transit industry.
